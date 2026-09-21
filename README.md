@@ -1,6 +1,5 @@
 <p align="center">
   <img width="300px" src="https://count.getloli.com/get/@Nwflower?theme=rule34"></img>
-  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nwflower&layout=compact"></img>
 </p>
 
 <p align="center">
@@ -21,26 +20,30 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Nwflower/dsh-chat-import">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nwflower&repo=dsh-chat-import" alt="dsh-chat-import" />
-      </a>
+      <a href="https://github.com/Nwflower/dsh-chat-import"><b>dsh-chat-import</b></a><br/>
+      <img src="https://img.shields.io/github/stars/Nwflower/dsh-chat-import?style=flat-square&amp;label=stars" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/Nwflower/dsh-chat-import?style=flat-square&amp;label=forks" alt="forks"/><br/>
+      把 25+ AI 编程 Agent 的聊天记录全保真导入为可续聊的 DeepSeek Harness 会话，支持反向导出与同步。
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Nwflower/dsh-claude-style">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nwflower&repo=dsh-claude-style" alt="dsh-claude-style" />
-      </a>
+      <a href="https://github.com/Nwflower/dsh-claude-style"><b>dsh-claude-style</b></a><br/>
+      <img src="https://img.shields.io/github/stars/Nwflower/dsh-claude-style?style=flat-square&amp;label=stars" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/Nwflower/dsh-claude-style?style=flat-square&amp;label=forks" alt="forks"/><br/>
+      为 DSH Web GUI 复刻 Claude Code Desktop 的视觉与交互：象牙白/暖黑双画布、陶烬橙强调色、三字体分工、权限分段控件与品牌切换。
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Nwflower/Atlas">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nwflower&repo=Atlas" alt="Atlas" />
-      </a>
+      <a href="https://github.com/Nwflower/Atlas"><b>Atlas</b></a><br/>
+      <img src="https://img.shields.io/github/stars/Nwflower/Atlas?style=flat-square&amp;label=stars" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/Nwflower/Atlas?style=flat-square&amp;label=forks" alt="forks"/><br/>
+      Yunzai-Bot V3+ 游戏图鉴查询插件：原神 / 星穹铁道 / 绝区零三库，支持索引、别名匹配与原魔属性计算。
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Nwflower/flower-plugin">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nwflower&repo=flower-plugin" alt="flower-plugin" />
-      </a>
+      <a href="https://github.com/Nwflower/flower-plugin"><b>flower-plugin</b></a><br/>
+      <img src="https://img.shields.io/github/stars/Nwflower/flower-plugin?style=flat-square&amp;label=stars" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/Nwflower/flower-plugin?style=flat-square&amp;label=forks" alt="forks"/><br/>
+      Yunzai-Bot V3 自定义抽卡卡池扩展：不修改本体卡池数据即可添加自定义卡池（已停止功能更新，仅维护卡池）。
     </td>
   </tr>
 </table>
@@ -54,7 +57,7 @@
 **游戏图鉴与 Yunzai / Game atlases & Yunzai-Bot:**
 
 - 图鉴系列：[genshin-atlas](https://github.com/Nwflower/genshin-atlas) · [zzz-atlas](https://github.com/Nwflower/zzz-atlas) · [star-rail-atlas](https://github.com/Nwflower/star-rail-atlas)
-- Yunzai-Bot V3 插件：[auto-plugin](https://github.com/Nwflower/auto-plugin)（定时任务）
+- Yunzai-Bot V3 插件：[auto-plugin](https://github.com/Nwflower/auto-plugin)（自动化：群名片更新等）
 
 ## 🧰 Tech Stack · 技术栈
 
