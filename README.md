@@ -11,7 +11,7 @@
 - 🎓 中国学生，坐标北京 · BUAA
 - 🛠 折腾 AI Agent 工具链 · DeepSeek Harness 插件生态常驻选手
 - 🧩 上游贡献：为 [dsh-context](https://github.com/bowenliang123/dsh-context/pull/25) 实现工具来源归因
-- 🎮 给游戏写点小工具：原神 / 绝区零 / 星穹铁道图鉴 · Yunzai-Bot 插件 · 米游社攻略作者
+- 🎮 游戏 × 代码 ：文明 VI Modder · Yunzai-Bot 插件共建者 · 米游社攻略作者
 - 🌱 黑客松专业陪跑选手 · 正在学习 JavaScript / Python / SQL，以及怎么少熬点夜
 - 🐠 平时在摸鱼，偶尔正经一点~
 
