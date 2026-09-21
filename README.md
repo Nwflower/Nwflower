@@ -8,7 +8,7 @@
 
 ## 🌟 Hi, I'm **Nwflower** · 听语惊花
 
-- 🎓 中国学生，坐标北京 · BUAA
+- 🎓 Chinese Student，Beijing · BUAA
 - 🛠 折腾 AI Agent 工具链 · DeepSeek Harness 插件生态常驻选手
 - 🧩 上游贡献：为 [dsh-context](https://github.com/bowenliang123/dsh-context/pull/25) 实现工具来源归因
 - 🎮 游戏 × 代码 ：文明 VI Modder · Yunzai-Bot 插件共建者 · 米游社攻略作者
