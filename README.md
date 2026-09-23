@@ -8,7 +8,6 @@
 
 ## 🌟 Hi, I'm **Nwflower** · 听语惊花
 
-- 🎓 Chinese Student，Beijing · BUAA
 - 🛠 折腾 AI Agent 工具链 · DeepSeek Harness 插件生态常驻选手
 - 🧩 上游贡献：为多个开源库提出性能优化建议
 - 🎮 游戏 × 代码 ：文明 VI Modder · Yunzai-Bot 插件共建者 · 米游社攻略作者
