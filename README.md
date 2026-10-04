@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/Nwflower/Nwflower/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
 
-## 🌟 Hi, I'm **Nwflower** · 听语惊花
+## 🌟 Hi, I'm **Nwflower**
 
 - 🛠 折腾 AI Agent 工具链 · DeepSeek Harness 插件生态常驻选手
 - 🧩 上游贡献：为多个开源库提出性能优化建议
@@ -60,11 +60,12 @@
 
 ## 🧰 Tech Stack · 技术栈
 
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-JavaScript-4fc08d?style=flat-square&logo=javascript&logoColor=fff)
 ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
-![](https://img.shields.io/badge/-Java-31a8ff?style=flat-square&logo=springboot&logoColor=fff)
-![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-SQLite-003b57?style=flat-square&logo=sqlite&logoColor=fff)
+![](https://img.shields.io/badge/-Electron-47848f?style=flat-square&logo=electron&logoColor=fff)
 
 ## 🌍 Environment · 环境
 
