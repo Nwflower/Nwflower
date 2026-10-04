@@ -1,5 +1,6 @@
 <p align="center">
   <img width="300px" src="https://count.getloli.com/get/@Nwflower?theme=rule34"></img>
+  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nwflower&layout=compact"></img>
 </p>
 
 <p align="center">
@@ -8,11 +9,17 @@
 
 ## 🌟 Hi, I'm **Nwflower**
 
-- 🛠 折腾 AI Agent 工具链 · DeepSeek Harness 插件生态常驻选手
-- 🧩 上游贡献：为多个开源库提出性能优化建议
-- 🎮 游戏 × 代码 ：文明 VI Modder · Yunzai-Bot 插件共建者 · 米游社攻略作者
-- 🌱 黑客松专业陪跑选手 · 正在学习 JavaScript / Python / SQL，以及怎么少熬点夜
-- 🐠 平时在摸鱼，偶尔正经一点~
+- 🛠 AI Agent 工具链建设者 · DeepSeek Harness 插件生态常驻选手
+- 🔍 逆向过 25+ 种代码/通用 Agent 的会话格式与工具调用语义，并把它们做成了可迁移的导入协议
+- 🧩 上游贡献：为多个开源库提出性能优化建议；解析层被 3.5k★ 社区项目 dsh-TUI 合并
+- 🎮 游戏 × 代码：文明 VI Modder · Yunzai-Bot 插件共建者 · 米游社攻略作者
+- 📫 1679659@qq.com · 正在寻找 Agent 产品/工程方向的实习机会
+
+## 📊 Numbers
+
+- ⭐ 开源项目累计 **1100+ stars**（dsh-chat-import 200+ · Yunzai 生态 900+）
+- 📦 [dsh-chat-import](https://www.npmjs.com/package/dsh-chat-import) npm 月下载 **1.6 万+**，外部 PR 贡献 **33 次**并被合并
+- 🏢 实习期间独立交付的政务方案编写 Agent 系统已投入真实业务
 
 ## 🔨 Featured Projects · 精选项目
 
